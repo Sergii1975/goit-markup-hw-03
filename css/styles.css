@@ -14,11 +14,13 @@
 
 }
 body {
+    box-sizing: border-box;
     font-family: Roboto, sans-serif;
     background-color: var(--background-color);
     color: var(--primary-text-color);
     font-size: 16px;
     line-height: 1.5;
+    /* outline: orange 1px; */
 } 
 .page-header {
     background-color: var(--background-color);
