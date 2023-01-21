@@ -83,10 +83,6 @@ p {
 margin-top: 0px;
 margin-bottom: 0px;
 }
-/* .apps {
-    margin-top: 32px;
-    margin-bottom: 8px;
-} */
 ul {
     margin-top: 0px;
     margin-bottom: 0px;
@@ -96,7 +92,7 @@ ul {
     display: block;
     max-width: 100%;
     height: auto;
-    /* flex-wrap: wrap; */
+    flex-wrap: wrap;
 } 
 .page-header {
     background-color: var(--background-color);
